@@ -1,0 +1,14 @@
+C:\Users\egorb\source\repos\Методы2\Методы2\bin\Debug\netcoreapp3.1\Методы2.exe
+C:\Users\egorb\source\repos\Методы2\Методы2\bin\Debug\netcoreapp3.1\Методы2.deps.json
+C:\Users\egorb\source\repos\Методы2\Методы2\bin\Debug\netcoreapp3.1\Методы2.runtimeconfig.json
+C:\Users\egorb\source\repos\Методы2\Методы2\bin\Debug\netcoreapp3.1\Методы2.runtimeconfig.dev.json
+C:\Users\egorb\source\repos\Методы2\Методы2\bin\Debug\netcoreapp3.1\Методы2.dll
+C:\Users\egorb\source\repos\Методы2\Методы2\bin\Debug\netcoreapp3.1\Методы2.pdb
+C:\Users\egorb\source\repos\Методы2\Методы2\obj\Debug\netcoreapp3.1\Методы2.csproj.AssemblyReference.cache
+C:\Users\egorb\source\repos\Методы2\Методы2\obj\Debug\netcoreapp3.1\Методы2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egorb\source\repos\Методы2\Методы2\obj\Debug\netcoreapp3.1\Методы2.AssemblyInfoInputs.cache
+C:\Users\egorb\source\repos\Методы2\Методы2\obj\Debug\netcoreapp3.1\Методы2.AssemblyInfo.cs
+C:\Users\egorb\source\repos\Методы2\Методы2\obj\Debug\netcoreapp3.1\Методы2.csproj.CoreCompileInputs.cache
+C:\Users\egorb\source\repos\Методы2\Методы2\obj\Debug\netcoreapp3.1\Методы2.dll
+C:\Users\egorb\source\repos\Методы2\Методы2\obj\Debug\netcoreapp3.1\Методы2.pdb
+C:\Users\egorb\source\repos\Методы2\Методы2\obj\Debug\netcoreapp3.1\Методы2.genruntimeconfig.cache
